@@ -117,7 +117,7 @@ dependencies {
 }
 
 mixin {
-    add sourceSets.main, "justtest.mixins-refmap.json"
+    add sourceSets.main, "templatemodwithmixin.mixins-refmap.json"
 }
 
 jar {
