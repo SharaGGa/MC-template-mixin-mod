@@ -1,6 +1,6 @@
 modLoader="javafml" #mandatory
 
-loaderVersion="[40,)" #mandatory
+loaderVersion="[47,)" #mandatory
 
 license="MIT"
 
@@ -26,7 +26,7 @@ long Description
 
     mandatory=true #mandatory
 
-    versionRange="[40,)" #mandatory
+    versionRange="[47,)" #mandatory
 
     ordering="NONE"
 
@@ -35,6 +35,6 @@ long Description
 [[dependencies.templatemodwithmixin]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.18.2,1.19)"
+    versionRange="[1.20.1,1.21)"
     ordering="NONE"
     side="BOTH"
